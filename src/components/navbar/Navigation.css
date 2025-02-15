@@ -1,7 +1,7 @@
 nav{
     display: flex;
     flex-direction: row;
-    background: #88aaed;
+    background: #83a8f1;
     justify-content:space-around;
     font-family: sans-serif;
 }
