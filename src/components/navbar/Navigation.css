@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    background: #88aaed;
+    justify-content:space-around;
+    font-family: sans-serif;
+}
+ol{
+    font-size:20px;
+    font-weight: 550;
+}
