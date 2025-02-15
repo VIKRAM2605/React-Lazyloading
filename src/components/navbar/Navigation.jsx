@@ -7,9 +7,9 @@ function Navigation() {
     
     <div>
         <nav>
-            <ol onClick={()=>navigate('/')}>Home</ol>
-            <ol onClick={()=>navigate('/Login')}>Login</ol>
-            <ol onClick={()=>navigate('/About')}>About</ol>
+            <ol onClick={()=>navigate('/React-Lazyloading/')}>Home</ol>
+            <ol onClick={()=>navigate('/React-Lazyloading/Login')}>Login</ol>
+            <ol onClick={()=>navigate('/React-Lazyloading/About')}>About</ol>
         </nav>
     </div>
   )
